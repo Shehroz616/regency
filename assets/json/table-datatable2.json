@@ -2,26 +2,26 @@
   "data": [
     {
       "id": 1,
-      "full_name": "Korrie O'Crevy",
+      "property_name": "NW, Atlanta, GA",
       "check_in_time": "2:00",
       "check_out_time":"3:00" ,
-      "com_ment" :"The Best"
+      "com_ment" :"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni tempore fugit natus enim distinctio culpa ea ut saepe, a itaque molestias quas magnam doloremque inventore aut quo ad dicta eveniet."
       
     },
     {
       "id": 2,
-      "full_name": "B Korrie O'Crevy",
+      "property_name": "P. Brawley Drive, NW, Atlanta GA",
       "check_in_time": "2:00",
       "check_out_time":"3:00" ,
-      "com_ment" :"The as Best"
+      "com_ment" :"Lorem, ipsum dolor sit amet consectetur adipisicing elit. "
       
     },
     {
       "id": 3,
-      "full_name": "C Korrie O'Crevy",
+      "property_name": "Mayson Turner Blvd, Atlanta, GA",
       "check_in_time": "2:00",
       "check_out_time":"3:00" ,
-      "com_ment" :"Thedsa Best"
+      "com_ment" :"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni tempore fugit natus enim distinctio culpa ea ut saepe, a itaque molestias quas magnam doloremque inventore aut quo ad dicta eveniet. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni tempore fugit natus enim distinctio culpa ea ut saepe, a itaque molestias quas magnam doloremque inventore aut quo ad dicta eveniet"
       
     }
     
